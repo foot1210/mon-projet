@@ -22,11 +22,11 @@
 │ Catégorie           │ │ IMAGE  │ │ IMAGE  │  │
 │ ○ Tous              │ │ Nom    │ │ Nom    │  │
 │ ○ Homme             │ │ Prix   │ │ Prix   │  │
-│ ○ Femme             │ │ ⭐⭐⭐   │ │ ⭐⭐⭐   
+│ ○ Femme             │ │   
 │ ○ Enfant            │ └────────┘ └────────┘  │
 │ ○ Unisexe           │ ┌────────┐ ┌────────┐  │
 │                     │ │ IMAGE  │ │ IMAGE  │  │
 │ Prix (slider)       │ │ Nom    │ │ Nom    │  │
 │ ────────────●       │ │ Prix   │ │ Prix   │  │
-│ Max: 500€           │ │ ⭐⭐⭐   │ │ ⭐⭐⭐   
+│ Max: 500€           │ │    
 │                     │ └────────┘ └────────┘  │
