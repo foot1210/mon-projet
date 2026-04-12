@@ -1,19 +1,14 @@
 # mon-projet
 Site e-commerce dans la vente de chaussure 
 
+Le projet consiste à développer un site web de type CMS consacré aux chaussures.
 
- Catalogue de chaussures : parcourez différents modèles (Nike, Adidas, Puma,)
+L’objectif principal est de permettre aux utilisateurs de consulter différents modèles, de naviguer facilement dans un catalogue et d’accéder aux informations détaillées de chaque produit.
 
- Gestion utilisateur : inscription, connexion
+Le site propose une structure simple avec une page d’accueil, un catalogue, une page de détail pour chaque chaussure et un espace utilisateur.
 
- Recherche et filtres pour trouver facilement vos chaussures
+Une attention particulière est portée à l’expérience utilisateur afin de proposer une navigation claire, rapide et accessible, même pour des utilisateurs peu expérimentés.
 
- Collections : gestion des chaussures favorites
+Ce projet constitue une première version du site. Des améliorations sont prévues par la suite, notamment l’ajout de fonctionnalités dynamiques comme la gestion des collections, des utilisateurs et l’interaction avec une base de données.
+ 
 
- Stack Technique
-
-Frontend : HTML / Javascript / CSS
-
-Backend : PHP / Javascript
-
-Base de données : MySQL
