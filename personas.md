@@ -1,5 +1,5 @@
  Persona 1
-Nom : Kevin M.  
+Nom : Ibrahim M.  
 Âge : 19 ans  
 Objectif : trouver des sneakers stylées  
 Situation : utilise surtout son téléphone   
