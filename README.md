@@ -1,7 +1,7 @@
 # mon-projet
 Site e-commerce dans la vente de chaussure 
 
-Le projet consiste à développer un site web de type CMS consacré aux chaussures.
+Le projet consiste à développer un site web de type e-commerce consacré aux chaussures.
 
 L’objectif principal est de permettre aux utilisateurs de consulter différents modèles, de naviguer facilement dans un catalogue et d’accéder aux informations détaillées de chaque produit.
 
